@@ -18,8 +18,8 @@ the rules written down in the
 
 ## Infrastructure
 
-- [**infra**](https://github.com/duncanite/infra) — the infrastructure behind the house
-  projects, as code.
+- **infra** — the infrastructure behind the house projects, as code; a private
+  repository.
 - [**.github**](https://github.com/duncanite/.github) — this repository: the organization
   profile and the community health files every other repository inherits.
 
